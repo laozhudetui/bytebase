@@ -11,7 +11,7 @@
     "@soerenmartius/vue3-clipboard": "^0.1.2",
     "@tailwindcss/forms": "^0.2.1",
     "@tailwindcss/typography": "^0.4.0",
-    "autoprefixer": "^10.2.6",
+    "autoprefixer": "^10.3.1",
     "axios": "^0.21.1",
     "highlight.js": "^10.6.0",
     "inter-ui": "^3.15.0",
