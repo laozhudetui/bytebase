@@ -14,7 +14,7 @@
     "autoprefixer": "^10.2.6",
     "axios": "^0.21.1",
     "highlight.js": "^10.6.0",
-    "inter-ui": "^3.15.0",
+    "inter-ui": "^3.19.3",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.1",
     "postcss": "^8.3.5",
