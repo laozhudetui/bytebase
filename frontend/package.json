@@ -16,7 +16,7 @@
     "highlight.js": "^10.6.0",
     "inter-ui": "^3.15.0",
     "lodash-es": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "postcss": "^8.3.5",
     "slug": "^4.0.2",
     "tailwindcss": "^2.2.2",
