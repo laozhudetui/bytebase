@@ -17,7 +17,7 @@
     "inter-ui": "^3.15.0",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.1",
-    "postcss": "^8.3.5",
+    "postcss": "^8.4.31",
     "slug": "^4.0.2",
     "tailwindcss": "^2.2.2",
     "uuid": "^8.3.2",
